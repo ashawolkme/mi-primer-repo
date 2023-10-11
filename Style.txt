@@ -1,1 +1,5 @@
-asdasdsadsadsd
+*{
+    margin: 0 px;
+    padding: 0 px;
+    box-sizing: border-box;
+};
